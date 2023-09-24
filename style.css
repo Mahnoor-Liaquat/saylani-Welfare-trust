@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.slider{
+    display: flex;
+    font-size: xx-large;
+    padding-top: 20px;
+    padding-right: 250px;
+    font-style: italic;
+}
+
+.services{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box img{
+    width: 25rem;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.main{
+    display: flex;
+    text-align: center;
+}
+
+.testimonial_image{
+    border-radius: 50%;
+}
+
+ul li{
+    text-decoration: none;
+}
